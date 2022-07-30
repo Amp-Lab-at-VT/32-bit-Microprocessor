@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: 32-bit Microprocessor
