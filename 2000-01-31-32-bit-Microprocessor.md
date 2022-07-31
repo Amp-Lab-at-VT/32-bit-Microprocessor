@@ -21,7 +21,7 @@ Logan Richardson
 Will Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/32-bit-Microprocessor"" >32-bit-Microprocessor</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/32-bit-Microprocessor" >32-bit-Microprocessor</a>
 
 ## Photo
 
