@@ -4,7 +4,7 @@ title: 32-bit Microprocessor
 description: The purpose of this project is to build a 32-bit CPU using VHDL. The CPU will be based on the MIPS instruction set, but will incorporate new, foreign instructions that are not already included in the MIPS architecture.
 date: 2000-01-31 09:00:00
 hero_image: /web/img/32-bit-Microprocessor/Hero.png
-image: /web/img/32-bit-Microprocessor/Hero.png
+# image /web/img/32-bit-Microprocessor/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
