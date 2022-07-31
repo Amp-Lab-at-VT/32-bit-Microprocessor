@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Logan Richardson
-Will Gerhard
+author: Logan Richardson, Will Gerhard
 show_sidebar: false
 ---
 
